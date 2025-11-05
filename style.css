@@ -236,7 +236,7 @@ i {
     height: 190px;
     background-color: rgb(177, 230, 248);
     border-radius: 12px;
-    padding: 19px;
+    padding: 12px;
     box-sizing: border-box;
   }
 
@@ -263,5 +263,6 @@ i {
 .submitted-to span:nth-child(4) {
     font-size: 13px;
 }
+
 
 }
