@@ -238,6 +238,8 @@ i {
     border-radius: 12px;
     padding: 12px;
     box-sizing: border-box;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
   }
 
   .container p {
@@ -266,3 +268,4 @@ i {
 
 
 }
+
